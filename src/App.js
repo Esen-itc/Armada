@@ -7,7 +7,7 @@ export default function App() {
   return (
     <div>
       {/* <Home/> */}
-      <Service/>
+      <Service/> 
     </div>
   )
 }
